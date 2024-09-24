@@ -110,7 +110,7 @@
     <string name="FRIENDS">"صَـديـق"</string>
     <string name="Warning">"تحذير"</string>
     <string name="SIGNING_IN">"تسجيل الدخول…"</string>
-    <string name="New_Friend_Request">"طلب صداقة جديد!"</string>
+    <string name="New_Friend_Request">"طلب صداقة جديد"</string>
     <string name="REQUEST_FRIEND">"إرسال طلب صداقة"</string>
     <string name="Private">"خاص"</string>
     <string name="Public">"عام"</string>
@@ -153,7 +153,7 @@
     <string name="Dot_Gobbler">"آكل النقاط الشره"</string>
     <string name="Dot_Devourer">"ملتهم النقاط"</string>
     <string name="Dot_Gormandizer">"آكل النقاط الجشع"</string>
-    <string name="Dot_Sommelier">"ساقي النقاط!"</string>
+    <string name="Dot_Sommelier">"ساقي النقاط"</string>
 
     <string name="Quadra_Gulp">"ابتلاع رباعي"</string>
     <string name="Multi_Gulp">"ابتلاع متعدد"</string>
@@ -1199,12 +1199,12 @@
     <string name="MUTED">"حُظِر من الدَردَشة"</string>
     <string name="SKIN">سكن</string>
     <string name="Choose_Skin_Size">اختر حجم سكنك</string>
-    <string name="Other_players_will_not_be_able_to_hear_you_">لن يتمكن اللاعبين الاخرين من سماعك!</string>
+    <string name="Other_players_will_not_be_able_to_hear_you_">لن يتمكن اللاعبين الاخرين من سماعك</string>
     <string name="Allow_permission_to_enable_voice_recording_">السماح بأذن لتمكين التسجيل الصوتي</string>
     <string name="voice_chat_prompt">للحصول على أفضل صوت أستخدم سماعة الرأس..</string>
     <string name="Only_leader_can_answer_requests_">"فَقط القائد يستطيع قبول الطلبات</string>
     <string name="Sent_request_not_invited_">تم ارسال طلبك (لست مدعو).</string>
-    <string name="REMOVE_SKIN_FROM_COMMUNITY_">أحذف السكن من المُجتمع!</string>
+    <string name="REMOVE_SKIN_FROM_COMMUNITY_">أحذف السكن من المُجتمع</string>
     <string name="This_cannot_be_undone_">هذه لا يمكن التراجع عنها.!</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">شاهد فيديو للحصول على مكافآة  %d مؤقتة!</string>
     <string name="WATCH_VIDEO_">شاهد فيديو!</string>
@@ -1217,8 +1217,8 @@
     <string name="Amounts_did_not_match_">المبلغ غير مُتطابق!</string>
     <string name="RECEIVE_PLASMA">تلقي البلازما</string>
     <string name="MULTIBLOB">مُتعددة النُسَخ</string>
-    <string name="Play_Nebulous_For_1_Year_">ألعب نيبلوس لمُدَّة 1 سنة!</string>
-    <string name="Play_Nebulous_For_X_Years_">العب نيبلوس لمُدَّة %d سنة!</string>
+    <string name="Play_Nebulous_For_1_Year_">ألعب نيبلوس لمُدَّة 1 سنة</string>
+    <string name="Play_Nebulous_For_X_Years_">العب نيبلوس لمُدَّة %d سنة</string>
     <string name="Starting___">بدء…</string>
     <string name="Tournament_Starting">البُطولة بدأءت</string>
     <string name="Max_Tilt_Angle_3D_">زاوية الميل القصوى ثلاثي الأبعاد</string>
@@ -1280,15 +1280,15 @@
     <string name="Crocodile_Hunter">صياد التمساح</string>
     <string name="Get_A_Pet_To_Level_X_">أجعل الحيوان مستوى %d.</string>
     <string name="plasma_boost_info">"تحصُل على مُعزِز البلازما من جميع أطوَّار اللعب بينما يكون التعزيزُ نشطاً، وهذا يشمُل أرباح الحلبة والبطولات! "لايعمل على مشتريّات البلازما أو عجلة الحظ او المُكافآت الخاصة"</string>
-    <string name="Plasma_Boost_7_Days_">مُسرِّع البلازما لمُدَّة 7 أيَّام!!!</string>
-    <string name="Plasma_Boost_1_Day_">مُسرِّع البلازما لمُدَّة يوم!</string>
+    <string name="Plasma_Boost_7_Days_">مُسرِّع البلازما لمُدَّة 7 أيَّام</string>
+    <string name="Plasma_Boost_1_Day_">مُسرِّع البلازما لمُدَّة يوم</string>
     <string name="Plasma_Boost_2_Hours_">مُسرِّع البلازما لمُدَّة ساعتين.</string>
     <string name="Plasma_Boost">مُسرِّع البلازما</string>
     <string name="particle_info">يجِب أن تكون في المستوى الـ 50 على الأقل وتستخدم سكن اساسي به جزئيَّات. من أجل رؤية أي جزئيات أخرى.</string>
     <string name="Plain_Score_Text">"نص النقاط"</string>
-    <string name="Custom_Skin_Reviewed_Notification">لقد قمنا بمُراجعة سكنك!</string>
-    <string name="You_Have_Mail_">لديك رسالة من %s!</string>
-    <string name="Clan_Request_Reviewed_Notification">طلبك للإنضمام للعشيرة %s تمَّت مُراجعتهُ!</string>
+    <string name="Custom_Skin_Reviewed_Notification">لقد قمنا بمُراجعة سكنك</string>
+    <string name="You_Have_Mail_">لديك رسالة من %s</string>
+    <string name="Clan_Request_Reviewed_Notification">طلبك للإنضمام للعشيرة %s تمَّت مُراجعتهُ</string>
     <string name="CRAZY_SPLIT">انقسام مجنونx</string>
     <string name="Sold_Community_Skins_">"سكنّات المُجتمع المُباعةُ: "</string>
     <string name="Estimated_Earnings_">"الأرباح المُتوقعة: "</string>
@@ -1296,15 +1296,15 @@
     <string name="SPLIT_">قسْمَةُ:</string>
     <string name="WALLS">جُدران</string>
     <string name="COMP_BANNED">"حُظِر من الحَلبة</string>
-    <string name="FIND_GAMES">البحث عن غرفة!</string>
+    <string name="FIND_GAMES">البحث عن غرفة</string>
     <string name="PLAY_SOLO">اللعِب الفردي</string>
     <string name="SET_EMOTE">ضع مُلصقاً</string>
-    <string name="Winner_Winner_Chicken_Dinner">رابح، والدجاج هو العَشاء!</string>
+    <string name="Winner_Winner_Chicken_Dinner">رابح، والدجاج هو العَشاء</string>
     <string name="Win_a_Battle_Royale_">حقق إنتصار في صِراع حتى النهاية.</string>
     <string name="Battle_">صِراع !</string>
     <string name="BATTLE_ROYALE">صِراع حتى النهاية!</string>
     <string name="Battle_Royale">صِراع حتى النهاية!</string>
-    <string name="The_winner_will_receive_x_plasma_">الفائِز سوف يَحصُل على %s بلازما!</string>
+    <string name="The_winner_will_receive_x_plasma_">الفائِز سوف يَحصُل على %s بلازما</string>
     <string name="admin_commands">"
 Commands:
 !kick [0–31]
@@ -1331,7 +1331,7 @@ Commands:
     <string name="MEGA_SPLIT">64x قسمة كبير</string>
     <string name="Missing_Permissions">أذونات مفقودة</string>
     <string name="DELETE_ACCOUNT">حذف الحساب</string>
-    <string name="delete_prompt">هل أنت متأكد انك تريد حذف حسابك؟ هذا دائم ولا يمكن التراجع عن ذلك! اكتب للحذف!: DELETE ID</string>
+    <string name="delete_prompt">هل أنت متأكد انك تريد حذف حسابك؟ هذا دائم ولا يمكن التراجع عن ذلك! اكتب للحذف: DELETE ID</string>
 
 
     <string name="Type">أكتب</string>
@@ -1355,7 +1355,7 @@ Commands:
     <string name="activate">تفعيل</string>
     <string name="clan_id">رقم هوية العشيرة</string>
     <string name="language_change_warning">سيؤدي تغيير اللغة إلى إعادة تشغيل التطبيق.</string>
-    <string name="xmas_gift_boost_message">لقد تلقيت هدية تعزيز البلازما 3 مرات ليوم واحد!</string>
+    <string name="xmas_gift_boost_message">لقد تلقيت هدية تعزيز البلازما 3 مرات ليوم واحد</string>
     <string name="no_response">لا توجد استجابة من الخادم. يرجى التحقق من اتصال الإنترنت.</string>
     <string name="RAMADAN">رمضان</string>
     <string name="SUDDEN_ATTACK">هجوم مفاجئ</string>
