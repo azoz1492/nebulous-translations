@@ -1209,7 +1209,7 @@
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">شاهد فيديو للحصول على مكافآة  %d مؤقتة!</string>
     <string name="WATCH_VIDEO_">شاهد فيديو!</string>
     <string name="PERMANENT_BOOSTS">مسرع دائم</string>
-    <string name="Video_failed_to_load_">فشل تحميل الفيديو!</string>
+    <string name="Video_failed_to_load_">فشل تحميل الفيديو</string>
     <string name="Video_Ready_">الفيديو جاهز!</string>
     <string name="GIVE_PLASMA">"مَنح بلازما"</string>
     <string name="Specify_amount_">حدد المبلغ:</string>
@@ -1218,7 +1218,7 @@
     <string name="RECEIVE_PLASMA">تلقي البلازما</string>
     <string name="MULTIBLOB">مُتعددة النُسَخ</string>
     <string name="Play_Nebulous_For_1_Year_">ألعب نيبلوس لمُدَّة 1 سنة!</string>
-    <string name="Play_Nebulous_For_X_Years_">العب نيبلوس لمُدَّة %d سنة!</string>
+    <string name="Play_Nebulous_For_X_Years_">العب نيبلوس لمُدَّة %d سنة</string>
     <string name="Starting___">بدء…</string>
     <string name="Tournament_Starting">البُطولة بدأءت</string>
     <string name="Max_Tilt_Angle_3D_">زاوية الميل القصوى ثلاثي الأبعاد</string>
@@ -1287,8 +1287,8 @@
     <string name="particle_info">يجِب أن تكون في المستوى الـ 50 على الأقل وتستخدم سكن اساسي به جزئيَّات. من أجل رؤية أي جزئيات أخرى.</string>
     <string name="Plain_Score_Text">"نص النقاط"</string>
     <string name="Custom_Skin_Reviewed_Notification">لقد قمنا بمُراجعة سكنك!</string>
-    <string name="You_Have_Mail_">لديك رسالة من %s!</string>
-    <string name="Clan_Request_Reviewed_Notification">طلبك للإنضمام للعشيرة %s تمَّت مُراجعتهُ!</string>
+    <string name="You_Have_Mail_">لديك رسالة من %s</string>
+    <string name="Clan_Request_Reviewed_Notification">طلبك للإنضمام للعشيرة %s تمَّت مُراجعتهُ</string>
     <string name="CRAZY_SPLIT">انقسام مجنونx</string>
     <string name="Sold_Community_Skins_">"سكنّات المُجتمع المُباعةُ: "</string>
     <string name="Estimated_Earnings_">"الأرباح المُتوقعة: "</string>
